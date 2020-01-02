@@ -1,0 +1,1 @@
+E:\2020\001_Libraries\log4net-2.0.8\examples\net\2.0\Tutorials\ConsoleApp\cs\build\debug\ConsoleApp.exe.config

@@ -1,0 +1,15 @@
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\build\bin\net\4.5\debug\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\build\bin\net\4.5\debug\log4net.pdb
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\build\bin\net\4.5\debug\log4net.xml
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\src\obj\Debug\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\src\obj\Debug\log4net.pdb
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\build\debug\log4net.xml
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\build\debug\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\build\debug\log4net.pdb
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\src\obj\Debug\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\src\obj\Debug\log4net.pdb
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\build\Debug\log4net.xml
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\build\Debug\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\build\Debug\log4net.pdb
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\src\obj\Debug\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\src\obj\Debug\log4net.pdb

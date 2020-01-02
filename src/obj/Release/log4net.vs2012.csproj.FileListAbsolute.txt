@@ -1,0 +1,10 @@
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\build\bin\net\4.5\release\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\build\bin\net\4.5\release\log4net.xml
+E:\2020\001_Libraries\CSharp\log4net-2.0.8\src\obj\Release\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\build\Release\log4net.xml
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\build\Release\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9~\src\obj\Release\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\build\Release\log4net.xml
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\build\Release\log4net.dll
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\src\obj\Release\log4net.vs2012.csprojAssemblyReference.cache
+E:\2020\001_Libraries\CSharp\log4net-2.0.9\src\obj\Release\log4net.dll
